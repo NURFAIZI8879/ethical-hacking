@@ -1,1 +1,3 @@
 ini adalah kumpulan code yang saya gunakan dalam kurs saya kali ini
+-ping ke target 
+-nslookup = cek adreess dan server
